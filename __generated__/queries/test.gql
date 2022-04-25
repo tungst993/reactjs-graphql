@@ -1,0 +1,7 @@
+query test {
+  test {
+    id
+    username
+    password
+  }
+}
